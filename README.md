@@ -1,4 +1,4 @@
-**my Readme file**
-#this is a optional task
+** my Readme file **
+# this is a optional task
 * created new rep
-*created a readme file
+* created a readme file
